@@ -155,29 +155,7 @@ More in: docs/security-best-practices.md
 
 ---
 
-## 🧠 Interview Talking Points
 
-- Difference between VM and VPS
-- What is firewall rule?
-- What is static IP?
-- How cloud free tier works
-- How to secure exposed services
-- RDP vs SSH
-
----
-
-## ❓ Common Interview Questions
-
-**Q: Why choose e2-micro?**  
-Low-cost, free-tier eligible, enough for testing.
-
-**Q: How do you secure RDP?**  
-Restrict IP, strong passwords, firewall, VPN.
-
-**Q: What happens if free tier ends?**  
-VM stops or billing starts.
-
----
 
 ## 📜 License
 
