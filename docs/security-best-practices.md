@@ -1,0 +1,6 @@
+- Restrict firewall to your IP
+- Disable root login
+- Use SSH keys
+- Enable OS updates
+- Snapshot VM weekly
+- Monitor logs
